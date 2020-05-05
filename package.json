@@ -1,0 +1,29 @@
+{
+  "name": "codenationchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsbegue/CodenationChallenge.git"
+  },
+  "keywords": [
+    "challenge",
+    "codenation"
+  ],
+  "author": "Raphael Sbegue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsbegue/CodenationChallenge/issues"
+  },
+  "homepage": "https://github.com/rsbegue/CodenationChallenge#readme",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
+    "sha1": "^1.1.1"
+  }
+}
